@@ -44,3 +44,34 @@ Memory:
 1. Install Python 3.13+
 2. Open terminal in project folder
 3. Run:
+
+---
+
+## Example Usage
+
+User: I feel tired  
+Agent: You may need more sleep (7–9 hours). Drink water and rest.
+
+User: Calories in banana  
+Agent: Banana has about 105 calories.
+
+User: My weight is 180  
+Agent: Got it — I saved your weight.
+
+---
+
+## Limitations
+- No real AI model (no OpenAI API used)
+- Limited food database
+- Rule-based responses only
+- No medical diagnosis capability
+
+---
+
+## Future Improvements
+- Add OpenAI GPT integration
+- Expand nutrition database
+- Improve personalization using real AI models
+- Add voice input support
+
+---
